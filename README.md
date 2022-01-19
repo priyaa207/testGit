@@ -1,3 +1,5 @@
 # testGit
-##editing the ReadMe file
+
+## Editing the ReadMe file
+
 This is Markdown file in this repository
